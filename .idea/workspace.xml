@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d0fd12ce-8f4b-4721-93b1-3f30e6a74b99" name="Changes" comment="구간 합 구하기" />
+=======
+    <list default="true" id="d0fd12ce-8f4b-4721-93b1-3f30e6a74b99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 2833cde60338238abc8fe59629014c124b03a54c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,21 +40,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/sanik/바탕 화면/Study/java-main",
+    "last_opened_file_path": "D:/Users/김산이/Desktop/Study/doit코딩테스트자바",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P11660_구간합구하기2">
-    <configuration name="P11659_구간합구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자료구조.P11659_구간합구하기" />
+  <component name="RunManager" selected="Application.P1253_좋은수구하기">
+    <configuration name="P10986_나머지합구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조.P10986_나머지합구하기" />
       <module name="doitcodingtest" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11720_숫자의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자료구조.P11720_숫자의합" />
+    <configuration name="P1253_좋은수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조.P1253_좋은수구하기" />
       <module name="doitcodingtest" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1546_평균" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자료구조.P1546_평균" />
+    <configuration name="P1940_주몽의명령" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조.P1940_주몽의명령" />
       <module name="doitcodingtest" />
       <extension name="coverage">
         <pattern>
@@ -98,20 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="defas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="defas" />
+    <configuration name="P2018_연속된자연수의합구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조.P2018_연속된자연수의합구하기" />
       <module name="doitcodingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="자료구조.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1253_좋은수구하기" />
+        <item itemvalue="Application.P1940_주몽의명령" />
+        <item itemvalue="Application.P2018_연속된자연수의합구하기" />
+        <item itemvalue="Application.P10986_나머지합구하기" />
         <item itemvalue="Application.P11660_구간합구하기2" />
-        <item itemvalue="Application.P11659_구간합구하기" />
-        <item itemvalue="Application.P11720_숫자의합" />
-        <item itemvalue="Application.P1546_평균" />
-        <item itemvalue="Application.defas" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +136,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689403459819</updated>
+<<<<<<< HEAD
       <workItem from="1689403460802" duration="10189000" />
+=======
+      <workItem from="1689403460802" duration="9983000" />
+      <workItem from="1689494352995" duration="7148000" />
+>>>>>>> 2833cde60338238abc8fe59629014c124b03a54c
     </task>
     <task id="LOCAL-00001" summary="구간 합 구하기">
       <created>1689420756550</created>
