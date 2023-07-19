@@ -10,17 +10,17 @@ public class P10986_나머지합구하기 {
 
         long[] S = new long[N];
         long[] C = new long[M];
-        int count = 0;
+        long count = 0;
         S[0] = sc.nextInt();
         for (int i = 1; i < N; i++) {
             S[i] = S[i-1]+sc.nextInt();
         }
         for (int i = 0; i < N; i++) {
-            int r = (int) S[i] % M;
-            C[r]++;
+            int r = (int) (S[i] % M);
             if (r == 0) {
                 count++;
             }
+            C[r]++;
         }
         for (int i = 0; i < M; i++) {
             count += C[i]*(C[i]-1)/2;
